@@ -135,7 +135,7 @@ VITE_TMDB_API_KEY=your_api_key_here
 
 ## Demo Video
 
-Add your demo video link here (Google Drive / YouTube)
+- https://drive.google.com/file/d/1w7P1mrkw8XqV_zi8wVecyuWQkK3TjGXp/view?usp=sharing
 
 ---
 
