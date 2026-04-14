@@ -94,6 +94,14 @@ src/
 
 ---
 
+## Tech Stack
+
+- Frontend: React (Vite)
+- Styling: Tailwind CSS
+- Animations: Framer Motion
+- API: TMDB (The Movie Database)
+- Version Control: Git & GitHub
+
 ## 🎨 Design System
 
 | Token | Value |
@@ -104,6 +112,30 @@ src/
 | Background | `#080808` (cinema-950) |
 | Gold accent | `#d4a017` (gold-500) |
 | Card bg | `rgba(20,20,20,0.95)` |
+
+---
+
+## Setup & Installation
+**1. Clone the repository**
+- git clone https://github.com/architanandi449-a11y/movie-explorer.git
+cd movie-explorer
+**2. Install dependencies**
+- npm install
+
+**3. Add environment variables**
+- Create a .env file in the root directory:
+
+VITE_TMDB_API_KEY=your_api_key_here
+
+**4. Run the application**
+- npm run dev
+
+## Live Demo
+ - movie-explorer-omega-neon.vercel.app
+
+## Demo Video
+
+Add your demo video link here (Google Drive / YouTube)
 
 ---
 
